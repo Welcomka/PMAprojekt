@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search jobs</string>
+    <string name="title_jobs">Jobs</string>
+    <string name="title_MyJobs">My jobs</string>
+</resources>
